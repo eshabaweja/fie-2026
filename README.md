@@ -7,6 +7,8 @@ The Ohio State University
 
 📄 [Read the paper (PDF)](paper.pdf)
 
+🎥 [Watch the presentation](https://www.youtube.com/watch?v=WTlSksgNkYA)
+
 ## Summary
 
 How do beginner programmers work differently from an LLM, and what does that mean for teaching with AI?
